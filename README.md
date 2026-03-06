@@ -38,7 +38,7 @@ I'm currently a fourth-year Computer Science student at the University of Albert
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
-<h3>My favourite projects</h3>
+<h2>My favourite projects</h2>
 <table>
   <thead align="center">
     <tr>
