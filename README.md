@@ -1,4 +1,4 @@
-## Hi there, <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm Jax
+## Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Jax
 
 I'm currently a fourth-year Computer Science student at the University of Alberta with experience in full stack development.
 
