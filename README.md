@@ -18,7 +18,7 @@ I'm currently a fourth-year Computer Science student at the University of Albert
   <tbody>
     <tr>
   <td>
-    <a href="https://github.com/JaxYopek/social-distribution"><b>💬 Social Distribution</b></a>
+    <a href="https://github.com/JaxYopek/distributed-social-network"><b>💬 Social Distribution</b></a>
   </td>
   <td>
     <img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
