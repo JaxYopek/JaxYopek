@@ -1,3 +1,7 @@
+## Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Jax
+
+I'm currently a fourth-year Computer Science student at the University of Alberta with experience in full stack development.
+
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JaxYopek/JaxYopek/output/github-snake-dark.svg">
@@ -5,10 +9,6 @@
     <img alt="github contribution snake" src="https://raw.githubusercontent.com/JaxYopek/JaxYopek/output/github-snake.svg">
   </picture>
 </p>
-
-## Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Jax
-
-I'm currently a fourth-year Computer Science student at the University of Alberta with experience in full stack development.
 
 
 ## 💻 Tech Stack:
@@ -45,7 +45,6 @@ I'm currently a fourth-year Computer Science student at the University of Albert
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
 <h2>My favourite projects</h2>
 <table>
