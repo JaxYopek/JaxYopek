@@ -90,7 +90,6 @@ I'm currently a fourth-year Computer Science student at the University of Albert
         <img alt="Pandas" src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
         <img alt="Plotly" src="https://img.shields.io/badge/plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" />
         <img alt="Alpha Vantage" src="https://img.shields.io/badge/Alpha%20Vantage-003366?style=for-the-badge" />
-        <img alt="Dotenv" src="https://img.shields.io/badge/dotenv-10AA50?style=for-the-badge" />
       </td>
       <td>
         <ul>
