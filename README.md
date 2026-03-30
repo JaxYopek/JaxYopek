@@ -126,7 +126,7 @@ I'm currently a fourth-year Computer Science student at the University of Albert
   </table>
   
 ## 📊 GitHub Stats:
-![](https://nirzak-streak-stats.vercel.app/?user=JaxYopek&theme=dark&hide_border=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=JaxYopek&theme=dark)<br/>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
